@@ -1,5 +1,0 @@
-[gd_scene format=3 uid="uid://beddv70j4nrc1"]
-
-[node name="Jogo" type="Node2D" unique_id=1789178900]
-
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1750503601]
